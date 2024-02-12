@@ -9,7 +9,7 @@ GitHub: https://github.com/HuddyP/PlanetsCalc
 
 
 # metadata
-__authors__ = "Hudson Pfenning, Hamim Shafen, Mason Regier"
+__authors__ = "Hudson Pfenning, Hamim Shafin, Mason Regier"
 __creation_date__ = "2/1/24"
 __emails__ = "hupfen01@wsc.edu, maregi01@wsc.edu, hashaf01@wsc.edu "
 __version__ = "0.0.1"
