@@ -31,6 +31,7 @@ planets = (
     ("Neptune", 4500),
 )
 
+
 def display_planets_menu():
     """
     displays the planets as a menu in main
